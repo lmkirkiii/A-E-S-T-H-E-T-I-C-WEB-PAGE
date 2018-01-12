@@ -30,14 +30,26 @@
 
 }
 .button{
-  background-color: yellow;
-  border: none;
-  color: blue;
+  background-color: none;
+  font-family:'Bungee Hairline';
+  border: 15px solid white;
+  color: white;
+  font-size: 30px;
   padding: 50px 500px;
+  background-position: center;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 30px;
   margin: 4px 2px;
   cursor: pointer;
+}
+.vaper{
+  height: 400px;
+  width: 350px;
+  bottom: 600px;
+}
+.healthy{
+  position: relative;
+  bottom: 600px;
 }
