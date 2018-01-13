@@ -73,3 +73,58 @@
   margin-left: auto;
   margin-right: auto;
 }
+.icecream{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a0/Sega-dreamcast-set.png"),url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/800px-Dreamcast-Console-Set.png"),url("https://i.ytimg.com/vi/tq4RU1KospQ/maxresdefault.jpg");
+}
+.tingle{
+  color: salmon;
+  font-style: italic;
+  text-align: right;
+
+}
+.mingle{
+  color: salmon;
+  font-style: italic;
+  right: 200px;
+  text-align: center;
+
+}
+.ringle{
+  color: salmon;
+  font-style: italic;
+  text-align: center;
+}
+.fingle{
+  right: 1000px;
+  color: salmon;
+  text-align: right;
+  font-style: italic;
+}
+.ningle{
+  color: salmon;
+  font-style: italic;
+}
+.hingle{
+  color: salmon;
+  font-style: italic;
+  text-align: center;
+
+}
+.gameboy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.funk{
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pain{
+  height:350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
