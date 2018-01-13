@@ -53,3 +53,23 @@
   position: relative;
   bottom: 600px;
 }
+.japaneasy{
+  font-family: helvetica;
+  color: blue;
+  text-align: center;
+  font-style: italic;
+}
+.templecat{
+  background-color: red;
+  background-image: url("http://www.toaspa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/u/lucky-cat.png"),url("http://www.thecoinandjewelryexchange.com/wp-content/uploads/2014/10/gold-estate-jewelry-florida1.png"),url("https://pm1.narvii.com/6283/4d7bbbe9225cdc83f137b0392a439e1e4fb16fa3_hq.jpg");
+
+}
+.hella{
+  height:524px;
+  width: 480px;
+  border: 3px solid yellow;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
