@@ -128,3 +128,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+.up{
+  background-image: url("https://img00.deviantart.net/1d68/i/2013/332/1/5/dead_tree_png_stock_by_jumpfer_stock-d6vz4wo.png"), url("http://www.textures4photoshop.com/tex/thumbs/dead-tree-branch-png-with-transparent-background-thumb48.png") ,url("https://i.ytimg.com/vi/0RuylPp-uUE/maxresdefault.jpg");
+
+}
+.skys{
+  color: violet;
+  font-style: italic;
+  text-align: right;
+}
