@@ -60,7 +60,7 @@
   font-style: italic;
 }
 .templecat{
-  background-color: red;
+  background-color: violet;
   background-image: url("http://www.toaspa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/u/lucky-cat.png"),url("http://www.thecoinandjewelryexchange.com/wp-content/uploads/2014/10/gold-estate-jewelry-florida1.png"),url("https://pm1.narvii.com/6283/4d7bbbe9225cdc83f137b0392a439e1e4fb16fa3_hq.jpg");
 
 }
@@ -74,6 +74,7 @@
   margin-right: auto;
 }
 .icecream{
+  background-color: yellow;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a0/Sega-dreamcast-set.png"),url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/800px-Dreamcast-Console-Set.png"),url("https://i.ytimg.com/vi/tq4RU1KospQ/maxresdefault.jpg");
 }
 .tingle{
@@ -129,6 +130,7 @@
   margin-right: auto;
 }
 .up{
+  background-color: blue;
   background-image: url("https://img00.deviantart.net/1d68/i/2013/332/1/5/dead_tree_png_stock_by_jumpfer_stock-d6vz4wo.png"), url("http://www.textures4photoshop.com/tex/thumbs/dead-tree-branch-png-with-transparent-background-thumb48.png") ,url("https://i.ytimg.com/vi/0RuylPp-uUE/maxresdefault.jpg");
 
 }
@@ -138,6 +140,7 @@
   text-align: right;
 }
 .coffee{
+  background-color: maroon;
   background-image: url("https://orig00.deviantart.net/e508/f/2013/007/a/7/nausicaa_of_the_valley_of_the_wind_by_flash_gavo-d5qt8ub.png"), url("https://lh4.googleusercontent.com/-_voOgHXY7Y4/TWrkQ6NC6aI/AAAAAAAAANs/V09TYIhMOWI/s1600/baguette.png"),url("https://vignette.wikia.nocookie.net/studio-ghibli/images/0/0f/Gutiokipanja.jpg/revision/latest?cb=20160626123725");
 }
 .mellow{
@@ -151,17 +154,18 @@
   text-align: right;
 }
 .funkadelica{
-  color: beige;
+  color: khaki;
   font-style: italic;
 }
 .open{
+  background-color: purple;
   border: 3px solid blue;
   padding: 4px;
   background-image: url("https://vignette.wikia.nocookie.net/studio-ghibli/images/0/0f/Gutiokipanja.jpg/revision/latest?cb=20160626123725");
 
 }
 .rump{
-  color: red;
+  color: khaki;
   font-style: italic;
 }
 .open h1{
@@ -173,7 +177,7 @@
   color:yellow;
 }
 .leer{
-  color: beige;
+  color: khaki;
   font-style: italic;
   text-align: right;
   border: 4px solid yellow;
@@ -186,9 +190,6 @@
 .glass{
   color: beige;
   font-style: italic;
-
-
-}
 
 
 }
