@@ -193,3 +193,21 @@
 
 
 }
+.clubbin{
+  background-color: tan;
+  background-image: url("https://78.media.tumblr.com/2c8d28ecfc3b12c2ca08e594c47c9c18/tumblr_mnis1mkXOR1srkw8zo1_500.png"), url("https://static.zerochan.net/Senzaki.Ema.full.2134256.jpg");
+}
+.rave{
+  text-align: center;
+  font-style: italic;
+  color: lightpink;
+
+}
+.nos{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 177px;
+    height: 435px;
+
+}
