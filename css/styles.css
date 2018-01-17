@@ -211,3 +211,22 @@
     height: 435px;
 
 }
+.classick{
+  background-color: hotpink;
+  background-image: url("http://themightychallenge.com/wp-content/uploads/2018/01/beautiful-ice-cube-images-ice-png-ice-cube-png-images-free-ice-cube-images.png"), url("http://www.freepngimg.com/download/winter_snow/4-2-white-snow-png.png"),url("http://s2.dmcdn.net/P2-Io.jpg");
+}
+.snowy{
+
+  color: darkblue;
+  font-style: italic;
+  text-align: center;
+}
+.bubble{
+  top: 5000px;
+}
+.room{
+  color: darkblue;
+  font-style: italic;
+  text-align: center;
+
+}
